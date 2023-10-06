@@ -1,5 +1,5 @@
 # CS-104_Group_15
 DESCRIPTION
 SCHEDULE
-FIGMA LINK
+FIGMA LINK - https://www.figma.com/file/1z0aMYeuspHJWFMcei3UIX/Project-IDK?type=design&node-id=4-9&mode=design&t=kpV1O1GL5FDREcbE-0 
 
